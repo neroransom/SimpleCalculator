@@ -1,2 +1,2 @@
 # SimpleCalculator
- Qt 計算器
+A simple calculator that uses Qt.
